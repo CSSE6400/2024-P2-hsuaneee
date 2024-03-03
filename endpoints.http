@@ -16,7 +16,7 @@ Content-Type: application/json
 {
     "title": "Test Todo",
     "description": "This is a test todo",
-    "completed": false
+    "completed": true
 }
 
 ### Update a Todo
